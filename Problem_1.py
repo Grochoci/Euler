@@ -3,8 +3,8 @@ def prob_1():
     multiples of 3 and 5.
     """
     
-    sum = 0
+    num_sum = 0
     for num in range(1000):
         if (num % 3 == 0) or (num % 5 == 0):
-            sum += num
-    return sum
+            num_sum += num
+    return num_sum
