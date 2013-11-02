@@ -1,5 +1,5 @@
 def prob_1():
-    """ Sum of all Natural numbers below 100 that are
+    """ Sum of all Natural numbers below 1000 that are
     multiples of 3 and 5.
     """
     
