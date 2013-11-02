@@ -8,4 +8,3 @@ def prob_1():
         if (num % 3 == 0) or (num % 5 == 0):
             num_sum += num
     return num_sum
->>>>>>> 366857921dda4c26c1528325be99dad2949decbb
